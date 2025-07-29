@@ -82,7 +82,7 @@ To build an interactive, easy-to-use Power BI dashboard that:
 * 📈 Customer Trends: Identify seasonal or daily transaction trends to enhance marketing campaigns.
 
 # Screenshots / Demos
-Dashboard View: https://github.com/Keerthana-duraipandian/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20shop%20sales%20Dashboard%20look.png
+![Dashboard View](https://github.com/Keerthana-duraipandian/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20shop%20sales%20Dashboard%20look.png)
 
 # 📎 How to Use
 
